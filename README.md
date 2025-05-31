@@ -1,10 +1,10 @@
 # WattUp! Landing Page
 
-A modern, responsive landing page for WattUp! - [brief description of your product].
+A modern, responsive landing page for WattUp! - WattUp! is a compact, plug-and-play energy conversion device that transforms human kinetic energy from gym workouts into usable electricity. Designed for small fitness centers, independent gyms, and eco-conscious athletes, WattUp! easily attaches to existing gym equipment — no modifications or replacements required. 
 
 ## 🌐 Live Site
 
-Visit the live landing page: [https://[your-new-username].github.io/wattup/](https://[your-new-username].github.io/wattup/)
+Visit the live landing page: [https://abm-cleantech.github.io/wattup/](https://abm-cleantech.github.io/wattup/)
 
 ## 📋 About
 
@@ -15,13 +15,11 @@ This repository contains the source code for the WattUp! product landing page. T
 - HTML5
 - CSS3
 - JavaScript (if applicable)
-- [Any other technologies you used]
 
 ## 🚀 Features
 
 - Responsive design for all devices
-- Modern, clean interface
-- [Add specific features of your landing page]
+- Simple and clean interfafce
 - Optimized for performance
 - SEO-friendly structure
 
@@ -38,7 +36,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-username]/wattup.git
+   git clone https://github.com/abm-cleantech/wattup.git
    ```
 
 2. Navigate to the project directory:
@@ -81,9 +79,7 @@ To customize the landing page:
 
 For questions about WattUp! or this landing page:
 
-- Website: [Your website if any]
-- Email: [Your email]
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: @abm-cleantech (https://github.com/abm-cleantech)
 
 ## 📄 License
 
@@ -91,4 +87,4 @@ This project is licensed under the MIT License - see below for details.
 
 ---
 
-**WattUp!** - [Your tagline or brief product description]
+**WattUp!** - From motion to meaning.
