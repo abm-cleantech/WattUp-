@@ -4,8 +4,7 @@ A modern, responsive landing page for WattUp! - WattUp! is a compact, plug-and-p
 
 ## 🌐 Live Site
 
-Visit the live landing page: [https://abm-cleantech.github.io/wattup/](https://abm-cleantech.github.io/wattup/)
-
+Visit the live landing page: [https://abm-cleantech.github.io/WattUp-/](https://abm-cleantech.github.io/WattUp-/)
 ## 📋 About
 
 This repository contains the source code for the WattUp! product landing page. The site is designed to showcase our product features and attract potential customers.
